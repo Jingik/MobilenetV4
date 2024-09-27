@@ -20,7 +20,7 @@ def make_divisible(
 
     This is to ensure that all layers have channels that are divisible by 8.
 
-    Args:
+    Args:.
         value: A `float` of original value.
         divisor: An `int` of the divisor that need to be checked upon.
         min_value: A `float` of  minimum value threshold.
